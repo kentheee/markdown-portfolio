@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# New List of a few of my favorite things
+- Open Mic Night
+- Guitar
+- Machine Learning
